@@ -1,0 +1,6 @@
+{
+  "name": "Assamese and Bodo PDF Translator",
+  "description": "Translates PDF documents into 100% accurate Assamese and Bodo, keeping numerical values untouched, and exports the final translation to DOCX files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
